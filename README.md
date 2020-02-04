@@ -1,2 +1,2 @@
-# Python-3-ASCII-ART
-A Simple ASCII ART program
+# Python3_ASCII_ART
+A simple console based app that demonstrates ASCII art.
